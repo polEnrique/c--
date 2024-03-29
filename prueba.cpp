@@ -8,6 +8,7 @@ private:
     int x, y;
 //fsdfsfdsfdsfdsfsd
 //dasdsdadsada
+//1232
 public:
     Punto();
     void setPunto(int, int);
